@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+
+
+Sitemap: https://bloger.it.kr/sitemap.xml
+Sitemap: https://bloger.it.kr/rss.xml
