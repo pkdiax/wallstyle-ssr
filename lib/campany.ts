@@ -1,3 +1,4 @@
+"use client"
 import type { NextApiRequest, NextApiResponse } from "next";
 import { db } from "@/lib/firebase";
 import { ref, push } from "firebase/database";

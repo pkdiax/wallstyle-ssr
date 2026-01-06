@@ -1,4 +1,4 @@
-
+"use client"
 export const dynamic = "force-static";
 import { fetchSingleimageFromFirebase, fetchMultimageFromFirebase } from "@/lib/blog-hugi";
 

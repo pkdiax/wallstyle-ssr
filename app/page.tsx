@@ -1,3 +1,4 @@
+"use client"
 import BlogHugiClient, { Post } from "@/app/CLIENT/Blog-Junche";
 import { fetchSingleimageFromFirebase, fetchMultimageFromFirebase } from "@/lib/blog-hugi";
 

@@ -1,3 +1,4 @@
+"use client"
 // app/api/rss/route.ts
 export const dynamic = "force-static";
 import { fetchSingleimageFromFirebase, fetchMultimageFromFirebase } from "@/lib/blog-hugi";

@@ -1,3 +1,4 @@
+"use client"
 {/** blog-hugi/[slug]/page **/}
 
 import { notFound } from "next/navigation";

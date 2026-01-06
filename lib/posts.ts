@@ -1,3 +1,5 @@
+
+"use client"
 import { db } from "@/lib/firebase";
 import { ref, get } from "firebase/database";
 

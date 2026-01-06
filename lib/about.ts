@@ -1,3 +1,4 @@
+"use client"
 import { db, storage } from "@/lib/firebase";
 import { ref, set, get, update, remove, child } from "firebase/database";
 import { ref as storageRef, uploadBytes, getDownloadURL } from "firebase/storage";
